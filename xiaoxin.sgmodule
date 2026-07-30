@@ -4,3 +4,10 @@
 
 [Rule]
 SRC-IP,192.168.5.15,Proxy
+
+PROCESS-NAME,"/Applications/夸克网盘.app/*",DIRECT
+PROCESS-NAME,"/Applications/Quark.app/*",DIRECT
+PROCESS-NAME,"/Applications/aDrive.app/*",DIRECT
+PROCESS-NAME,"/Applications/Thunder.app/*",DIRECT
+PROCESS-NAME,"/Applications/SunloginClient.app/*",DIRECT
+PROCESS-NAME,"/Applications/OneDrive.app/*",DIRECT
