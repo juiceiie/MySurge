@@ -1,0 +1,6 @@
+#!name=xiaoxim
+#!desc=XiaoXin
+[General]
+
+[Rule]
+SRC-IP,192.168.5.15,Proxy
